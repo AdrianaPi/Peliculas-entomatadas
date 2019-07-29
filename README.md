@@ -1,11 +1,18 @@
-# Moods&Movies
+# MoodVie
 
 ## Definición del producto
 
 ¡Una película para cada estado de ánimo!
 
-Somos una Web App de recomendación de películas.
-En Moods&Movies nos encargamos de que tu selección de películas sea fácil y rápida, con nuestras sugerencias de películas con base a tu estado de ánimo.
+Somos una Web App de recomendación de películas. En Moodvie nos encargamos de que tu elección de película sea fácil y rápida, para eso te sugerimos las películas con base a tu estado de ánimo.
+
+## Preámbulo
+
+El mercado cinematográfico ofrece múltiples opciones a los consumidores, ya sean apasionados del cine o consumidores ocasionales.
+
+Actualmente los servicios de streaming se posicionan en el mercado como una de las opciones preferidas para el consumo de películas. Específicamente Netflix dice que el 45% del total del consumo en la plataforma se realiza desde Latinoamérica. Por ello no nos sorprenden los datos sobre el consumo de la plataforma en 2017, donde colocan a México como el país número uno con el mayor número de miembros que ve Netflix todos los días.
+
+Se estima que el catálogo de películas de Netflix es de 4010 películas de diversos géneros; entre toda esta oferta puede llegar a ser tardada e incluso complicada la elección de película para los consumidores.
 
 ## Primera iteración
 
@@ -40,8 +47,6 @@ Por lo que nuestras historias de usuario fueron:
 
 El primer nombre que le pusimos a nuestro producto fue Películas Entomatadas y los prototipos de baja y alta fidelidad son los siguientes respectivamente.
 
-https://marvelapp.com/1d93ch46/screen/53875820
-https://marvelapp.com/4cbb823
 
 ![Prototipo 1](./src/assets/images/pelis1.png)
 
@@ -62,7 +67,19 @@ Por lo que nuestro nuevo producto quedó de la siguiente forma:
 
 https://marvelapp.com/43d458a
 
+Este prototipo fue puesto aprueba con expertos en la materia que nos sugirieron lo siguiente:
 
+* Utilizar un nombre que fuese más rápido de pronunciar.
+* Permitir que el usuario acceda rápidamente a lo que le interesa.
+* Por lo que antes de salir a testear el prototipo con los usuarios se realizaron nuevamente cambios en el nombre de producto y se eliminó la página de inicio, reemplazándola por una página de carga.
+
+Siendo el siguiente prototipo testeado:
+
+<a href="https://ibb.co/Wygw8mm"><img src="https://i.ibb.co/Hznsw55/pelis2.png" alt="pelis2" border="0"></a>
+
+Se realizaron 8 encuestas, donde 5 de ellas fueron contestadas por mujeres y 3 por hombres. Teniendo como resultado lo siguiente:
+
+<a href="https://ibb.co/sb8pC9g"><img src="https://i.ibb.co/FmRkX4h/pruebas-usuarios2.png" alt="pruebas-usuarios2" border="0"></a>
 
 
 
